@@ -26,7 +26,7 @@ Jolly Nature
 - Icicle Spear  
 - Drill Run  
 - Shell Smash  
-- Ice Spinner  
+- Tera Blast  
 
 Goodra @ Assault Vest  
 Ability: Sap Sipper  
@@ -34,12 +34,12 @@ Tera Type: Steel
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Draco Meteor  
+- Tera Blast  
 - Dragon Pulse  
 - Flamethrower  
-- Tera Blast  
+- Thunderbolt  
 
-Indeedee-F @ Mental Herb  
+Indeedee-F @ Leftovers  
 Ability: Synchronize  
 Tera Type: Dark  
 EVs: 252 HP / 4 SpA / 252 SpD  
@@ -60,3 +60,4 @@ IVs: 0 Atk
 - Dark Pulse  
 - Dazzling Gleam  
 - Focus Blast  
+
