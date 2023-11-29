@@ -1,12 +1,12 @@
-Persian @ Heavy-Duty Boots  
-Ability: Technician  
+Heracross @ Heavy-Duty Boots  
+Ability: Moxie  
 Tera Type: Flying  
-EVs: 252 Atk / 252 Spe  
+EVs: 252 Atk / 4 Def / 252 Spe  
 Adamant Nature  
-- Aerial Ace  
-- Fake Out  
-- U-turn  
-- Play Rough  
+- Close Combat  
+- Earthquake  
+- Swords Dance  
+- Megahorn  
 
 Garganacl @ Leftovers  
 Ability: Purifying Salt  
@@ -20,13 +20,13 @@ Impish Nature
 
 Cloyster @ Heavy-Duty Boots  
 Ability: Skill Link  
-Tera Type: Electric  
+Tera Type: Grass  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Icicle Spear  
-- Waterfall  
+- Drill Run  
 - Shell Smash  
-- Tera Blast  
+- Ice Spinner  
 
 Goodra @ Assault Vest  
 Ability: Sap Sipper  
@@ -45,8 +45,8 @@ Tera Type: Dark
 EVs: 252 HP / 4 SpA / 252 SpD  
 Calm Nature  
 IVs: 0 Atk  
-- Psyshock  
-- Healing Wish  
+- Psychic  
+- Shadow Ball  
 - Dazzling Gleam  
 - Calm Mind  
 
@@ -56,10 +56,7 @@ Tera Type: Fire
 EVs: 4 HP / 252 SpA / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
-- Swagger  
-- Flatter  
-- Draining Kiss  
-- Burning Jealousy  
-
-
-
+- Thunder Wave  
+- Dark Pulse  
+- Dazzling Gleam  
+- Focus Blast  
